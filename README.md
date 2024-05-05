@@ -6,5 +6,3 @@
   <li>Subscribe to my newsletter <a href = "https://newsletter.ashishps.com/">Dev Design Digest</a> to learn coding and System Design visually and prepare for interviews.</li>
   <li>I actively create coding and software engineering related content on <a href="https://www.linkedin.com/in/chauhan-samarth/">LinkedIn</a>.</li>
 </ul>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chauhan-samarth&show_icons=true&locale=en" alt="chauhan-samarth" /></p>
